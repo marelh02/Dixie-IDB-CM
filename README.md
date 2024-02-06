@@ -1,1 +1,1 @@
-# Contact Manager using Dexie JS with React 
+# Contact Manager using Dixie JS with React 
